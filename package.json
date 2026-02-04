@@ -1,0 +1,16 @@
+{
+  "name": "temple-group-matcher",
+  "version": "0.1.0",
+  "description": "CIS 3296 Proof of Concept \u2013 Node.js + Express + MongoDB (Mongoose)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.9.0"
+  }
+}
