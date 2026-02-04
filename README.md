@@ -1,4 +1,4 @@
-# Temple Group Project Matching Tool – Proof of Concept
+# Group Project Matching Tool
 
 CIS 3296- gMatch
 
